@@ -1,37 +1,31 @@
-# 🏠 Airbnb Listing Price Prediction – Melbourne
+# Airbnb Listing Price Prediction – Melbourne
 
 This project was developed as part of a Master of Business Analytics group assignment, where students participated in a Kaggle competition to predict Airbnb listing prices in Melbourne. The work involved cleaning the dataset, performing exploratory data analysis (EDA), and building regression models to forecast prices. Each student was responsible for one of the three defined tasks.
 
 ---
 
-## 🎯 Objective
+## 1. Objective
 
 To create a predictive model that estimates Airbnb prices based on listing characteristics, with the goal of helping hosts set fair and competitive pricing.
 
 ---
 
-## 🧩 Assignment Structure
+## 2. Assignment Structure
 
 The project was divided into three tasks:
 
 - **Task 1 – Problem Description & Initial Data Analysis**  
   Defined the forecasting problem and analyzed the raw dataset  
-  *(by Quoc Trung Nguyen)*
 
 - **Task 2 – Exploratory Data Analysis (EDA)**  
   Performed visual analysis and explored variable relationships  
-  *(by Do Minh Huu Nguyen)*
 
 - **Task 3 – Regression Modeling & Forecasting**  
   Built machine learning models and generated final predictions
 
 ---
 
-## 📁 Repository Structure
-
-
-
-## 🧪 Methodology
+## 3. Methodology
 
 - **Data Cleaning**: Removed missing values and outliers
 - **EDA**: Explored distribution of prices, availability, and geographic patterns
@@ -45,7 +39,7 @@ The project was divided into three tasks:
 
 ---
 
-## 📊 Key Findings
+## 4. Key Findings
 
 - Suburb, room type, and availability were top predictors
 - XGBoost performed best overall
@@ -53,7 +47,7 @@ The project was divided into three tasks:
 
 ---
 
-## 🧠 Learning Outcomes
+## 5. Learning Outcomes
 
 - Built a complete ML pipeline using Python and Jupyter
 - Gained hands-on experience in EDA, modeling, and evaluation
@@ -61,15 +55,14 @@ The project was divided into three tasks:
 
 ---
 
-## ⚠️ Notes
+## 6. Notes
 
-- Dataset provided through a university Kaggle competition
-- Due to academic policies, only the test dataset is included
+- Dataset provided through a university Kaggle competition 
 - Team Name: `BUSA8001_TheOutliers:))`
 
 ---
 
-## 📫 Contact
+## 7. Contact
 
-Do Minh Huu Nguyen  
-📧 [huunguyen1011.work@gmail.com](mailto:huunguyen1011.work@gmail.com)
+- Do Minh Huu (James) Nguyen
+- huunguyen1011.work@gmail.com
