@@ -57,7 +57,7 @@ The project was divided into three tasks:
 
 ## 6. Notes
 
-- Dataset provided through a university Kaggle competition 
+- Dataset provided through Macquarie Kaggle competition 
 - Team Name: `BUSA8001_TheOutliers:))`
 
 ---
